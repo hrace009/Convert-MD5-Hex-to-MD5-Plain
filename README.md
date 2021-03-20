@@ -11,10 +11,18 @@
 ### 🏠 [Homepage](https://www.hrace009.com)
 
 ## Usage
-
-```sh
-# php convert.php
-```
+* Edit `convert.php` with your favorite editor.
+* Find this line at the top of script, and replace with your own configuration.
+    ```sh
+    $servername = "DATABASE_HOST";
+    $username   = "DATABASE_USER";
+    $password   = "DATABASE_PASSWORD";
+    $dbname     = "DATABASE_NAME";
+    ```
+* Then, run on your console like bellow:
+    ```sh
+    # php convert.php
+    ```
 
 ## Author
 
@@ -29,6 +37,7 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you!<br>
+Comment, like and subscribe to my Youtube channel [@hrace009](https://youtube.com/hrace009)
 
 ***
